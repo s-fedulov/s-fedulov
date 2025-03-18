@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-fedulov)](https://github.com/anuraghazra/github-readme-stats)
+![image](https://github.com/user-attachments/assets/77b961c6-4351-4b4f-9a9b-0bc847ab2bef)
